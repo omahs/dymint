@@ -277,8 +277,6 @@ github.com/dvsekhvalnov/jose2go v1.5.0 h1:3j8ya4Z4kMCwT5nXIKFSV84YS+HdqSSO0VsTQx
 github.com/dvsekhvalnov/jose2go v1.5.0/go.mod h1:QsHjhyTlD/lAVqn/NSbVZmSCGeDehTB/mPZadG+mhXU=
 github.com/dymensionxyz/cosmosclient v0.2.0-alpha h1:x8UCXtWyZc7TXw99VH83ld2YD21d5m4fJx5k8zbdFj4=
 github.com/dymensionxyz/cosmosclient v0.2.0-alpha/go.mod h1:Fxwqa+T2fG+Q1cK5niy+WE9L1ul1nf1fF6gi3nwCqVE=
-github.com/dymensionxyz/dymension v0.1.0-alpha.0.20221225142534-0e73a495b739 h1:x6dXyuofax+FAxWuYuikOMpCTU3VK4A7qM63EO43Xrs=
-github.com/dymensionxyz/dymension v0.1.0-alpha.0.20221225142534-0e73a495b739/go.mod h1:Ss0oibs7QoFWlQjbb8R/HwKVpzh7AHI+0y3TShrf35g=
 github.com/dymensionxyz/dymension v0.1.0-alpha.0.20221225171439-68887865cf2f h1:3kLjKxgH3a/Yz9zVzNoyvng4+hEViOwsPgftpXajV28=
 github.com/dymensionxyz/dymension v0.1.0-alpha.0.20221225171439-68887865cf2f/go.mod h1:Ss0oibs7QoFWlQjbb8R/HwKVpzh7AHI+0y3TShrf35g=
 github.com/eapache/go-resiliency v1.1.0/go.mod h1:kFI+JgMyC7bLPUVY133qvEBtVayf5mFgVsvEsIPBvNs=
@@ -356,8 +354,8 @@ github.com/godbus/dbus/v5 v5.0.3/go.mod h1:xhWf0FNVPg57R7Z0UbKHbJfkEywrmjJnf7w5x
 github.com/godbus/dbus/v5 v5.0.4/go.mod h1:xhWf0FNVPg57R7Z0UbKHbJfkEywrmjJnf7w5xrFpKfA=
 github.com/godbus/dbus/v5 v5.1.0 h1:4KLkAxT3aOY8Li4FRJe/KvhoNFFxo0m6fNuFUO8QJUk=
 github.com/godbus/dbus/v5 v5.1.0/go.mod h1:xhWf0FNVPg57R7Z0UbKHbJfkEywrmjJnf7w5xrFpKfA=
-github.com/gofrs/uuid v4.2.0+incompatible h1:yyYWMnhkhrKwwr8gAOcOCYxOOscHgDS9yZgBrnJfGa0=
-github.com/gofrs/uuid v4.2.0+incompatible/go.mod h1:b2aQJv3Z4Fp6yNu3cdSllBxTCLRxnplIgP/c0N/04lM=
+github.com/gofrs/uuid v4.3.1+incompatible h1:0/KbAdpx3UXAx1kEOWHJeOkpbgRFGHVgv+CFIY7dBJI=
+github.com/gofrs/uuid v4.3.1+incompatible/go.mod h1:b2aQJv3Z4Fp6yNu3cdSllBxTCLRxnplIgP/c0N/04lM=
 github.com/gogo/gateway v1.1.0 h1:u0SuhL9+Il+UbjM9VIE3ntfRujKbvVpFvNB4HbjeVQ0=
 github.com/gogo/gateway v1.1.0/go.mod h1:S7rR8FRQyG3QFESeSv4l2WnsyzlCLG0CzBbUUo/mbic=
 github.com/golang-jwt/jwt/v4 v4.0.0/go.mod h1:/xlHOz8bRuivTWchD4jCa+NbatV+wEUSzwAxVc6locg=
